@@ -1,0 +1,16 @@
+.tabela {
+    border: 1px rgb(107, 104, 107);
+    border-style: groove;
+    background-color: aliceblue;
+}
+
+.titulo {
+    background-color: aquamarine;
+}
+.titulo2 {
+    background-color: rgb(126, 124, 122);
+}
+
+.nacionais {
+    background-color: rgb(6, 86, 88);
+}
